@@ -1,11 +1,11 @@
 # Project-5-Comment_Toxicity
 The objective of this project is to develop a deep learning-based comment toxicity model using Python. This model will analyze text input from online comments and predict the likelihood of each comment being toxic
 
-### 🎯 Project Objective
+### Project Objective
 
 To develop a deep learning model that automatically detects harmful or inappropriate comments and classifies them into different toxicity categories.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Programming Language:** Python
 - **Data Analysis:** Pandas, NumPy
